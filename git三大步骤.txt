@@ -1,0 +1,5 @@
+1. git init // 本地初始化
+2. git add *
+3. git commit -m "简介"
+4. git 远程地址关联
+5. git push origin master
